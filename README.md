@@ -1,0 +1,1 @@
+# smartNinjaGitExample1
